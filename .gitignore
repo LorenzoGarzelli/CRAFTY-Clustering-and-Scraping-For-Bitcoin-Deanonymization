@@ -1,0 +1,11 @@
+__pycache__
+.ipynb_checkpoints
+.vscode
+2013
+DEV
+checkpointing copy.json
+deanomi.py
+top_10_clusters.dat
+2013new.zip
+.DS_Store
+requirements.txt
